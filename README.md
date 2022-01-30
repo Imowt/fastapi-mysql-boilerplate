@@ -4,6 +4,10 @@ Simple fastapi template using mysql db
 
 - Classic fastapi project architecture
 
+# Author
+
+[Imowt](https://github.com/Imowt)
+
 ## Dependencies:
 
 - **sqlmodel**: model and database ORM for fastapi based on sqlalchemy (https://sqlmodel.tiangolo.com/)
